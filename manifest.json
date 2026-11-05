@@ -4,13 +4,13 @@
   "profile_1_package": "com.garena.game.mho",
   "profile_1_version": "1.0.11.0.3284123",
   "profile_1_path": "profils/mho_asia_1.0.11.0.3284123.json",
-  "profile_1_sha256": "e3dea962718537299293250c3448f5ba470022f8c8c462ea438095b50fa96572",
+  "profile_1_sha256": "eb463fc3585b47d6035b27803c48a7df60b662341e6d785a9c410b5b62358979",
   "profile_2_package": "com.tencent.mhadv",
   "profile_2_version": "0.30.25.0.2828873",
   "profile_2_path": "profils/mho_europe_0.30.25.0.2828873.json",
-  "profile_2_sha256": "f22fd33328ac70cd35d641067c058c550c08062b84fd43f7cd41556bf810bb81",
+  "profile_2_sha256": "2cb061fe5c271bb88dfa2ddab0702931cf329573920b8607dc22855f79abcc72",
   "profile_3_package": "com.tencent.mhadv",
   "profile_3_version": "1.0.9.0.3308842",
   "profile_3_path": "profils/mho_europe_1.0.9.0.3308842.json",
-  "profile_3_sha256": "afe95fdb46a7fd3fd4b90254a9faba60eb9b7c5e0c057d5a3df492d773aa0ec2"
+  "profile_3_sha256": "f4370c26fae0d84aa69723414d653e253116fbb76428016679734124c4193421"
 }

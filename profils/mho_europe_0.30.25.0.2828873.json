@@ -106,7 +106,7 @@
 	"default_pixelflow_choice": "disabled",
 	"vt_anisotropy_patch_ready": false,
 	"default_vt_anisotropy_enabled": false,
-	"default_vt_anisotropy_value": 16,
+	"default_vt_anisotropy_value": 8,
 	"vram_budget_patch_ready": false,
 	"default_vram_budget_enabled": false,
 	"default_vram_budget_value": 4096,

@@ -211,7 +211,7 @@
 	"default_pixelflow_choice": "disabled",
 	"vt_anisotropy_patch_ready": true,
 	"default_vt_anisotropy_enabled": false,
-	"default_vt_anisotropy_value": 16,
+	"default_vt_anisotropy_value": 8,
 	"vt_anisotropy_1_offset": 253938700,
 	"vt_anisotropy_1_before": "ffc300d1",
 	"vt_anisotropy_1_0": "00008052",
