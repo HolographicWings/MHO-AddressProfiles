@@ -1,0 +1,16 @@
+{
+  "schema": 1,
+  "profile_count": 3,
+  "profile_1_package": "com.garena.game.mho",
+  "profile_1_version": "1.0.11.0.3284123",
+  "profile_1_path": "profils/mho_asia_1.0.11.0.3284123.json",
+  "profile_1_sha256": "e3dea962718537299293250c3448f5ba470022f8c8c462ea438095b50fa96572",
+  "profile_2_package": "com.tencent.mhadv",
+  "profile_2_version": "0.30.25.0.2828873",
+  "profile_2_path": "profils/mho_europe_0.30.25.0.2828873.json",
+  "profile_2_sha256": "f22fd33328ac70cd35d641067c058c550c08062b84fd43f7cd41556bf810bb81",
+  "profile_3_package": "com.tencent.mhadv",
+  "profile_3_version": "1.0.9.0.3308842",
+  "profile_3_path": "profils/mho_europe_1.0.9.0.3308842.json",
+  "profile_3_sha256": "afe95fdb46a7fd3fd4b90254a9faba60eb9b7c5e0c057d5a3df492d773aa0ec2"
+}
