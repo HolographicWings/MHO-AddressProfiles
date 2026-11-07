@@ -1,10 +1,11 @@
 {
   "schema": 1,
+  "last_patcher_version": 10600,
   "profile_count": 3,
   "profile_1_package": "com.garena.game.mho",
   "profile_1_version": "1.0.11.0.3284123",
   "profile_1_path": "profils/mho_asia_1.0.11.0.3284123.json",
-  "profile_1_sha256": "eb463fc3585b47d6035b27803c48a7df60b662341e6d785a9c410b5b62358979",
+  "profile_1_sha256": "aa8c795757530c5277f7e7fd6df2649ff659514399e8bc6d7591ecbd7ecce654",
   "profile_2_package": "com.tencent.mhadv",
   "profile_2_version": "0.30.25.0.2828873",
   "profile_2_path": "profils/mho_europe_0.30.25.0.2828873.json",
@@ -12,5 +13,5 @@
   "profile_3_package": "com.tencent.mhadv",
   "profile_3_version": "1.0.9.0.3308842",
   "profile_3_path": "profils/mho_europe_1.0.9.0.3308842.json",
-  "profile_3_sha256": "f4370c26fae0d84aa69723414d653e253116fbb76428016679734124c4193421"
+  "profile_3_sha256": "71b8144ef3d4299e45d44ef1c2e53993aa3417e6afc11df8766969cafff53951"
 }
